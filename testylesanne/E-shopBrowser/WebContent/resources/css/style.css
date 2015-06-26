@@ -1,0 +1,34 @@
+@CHARSET "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Exo+2:100italic);
+
+body{
+	background-color:"F0F0F0";
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	
+}
+
+.header-container > h1 {
+	margin: 0 auto;
+	padding-top:100px;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	font-style: italic;
+	font-size: 36px;
+	font-family: 'Exo 2', sans-serif;
+} 
+
+.search-container {
+	margin: 0;
+	width: 100%;
+	height: auto;
+	text-align:center;
+}
+
+.search-container > form {
+	margin: 0 auto;
+	width: inherit;
+}
