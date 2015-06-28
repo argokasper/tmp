@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+<OperationRequest>
+<HTTPHeaders>
+<Header Name="UserAgent" Value="Java/1.8.0_31"/>
+</HTTPHeaders>
+<RequestId>e7ee568e-e5e3-40f5-a3b3-81194b66e6c6</RequestId>
+<Arguments>
+<Argument Name="AWSAccessKeyId" Value="AKIAJZSAO7I2UDWK7B7Q"/>
+<Argument Name="AssociateTag" Value="something"/>
+<Argument Name="ItemPage" Value="3"/>
+<Argument Name="Keywords" Value="car"/>
+<Argument Name="Operation" Value="ItemSearch"/>
+<Argument Name="ResponseGroup" Value="ItemAttributes"/>
+<Argument Name="SearchIndex" Value="All"/>
+<Argument Name="Service" Value="AWSECommerceService"/>
+<Argument Name="Timestamp" Value="2015-06-27T17:47:39Z"/>
+<Argument Name="VariationPage" Value="1"/>
+<Argument Name="Version" Value="2011-08-01"/>
+<Argument Name="Signature" Value="Cv70F8r7oq4C4EyxP2uHtMEmVqmoLWT4BDcZ/xnJyk4="/>
+</Arguments>
+<RequestProcessingTime>0.4870430000000000</RequestProcessingTime>
+</OperationRequest>
+<Items>
+<Request>
+<IsValid>True</IsValid>
+<ItemSearchRequest>
+<ItemPage>3</ItemPage>
+<Keywords>car</Keywords>
+<ResponseGroup>ItemAttributes</ResponseGroup>
+<SearchIndex>All</SearchIndex>
+</ItemSearchRequest>
+</Request>
+<TotalResults>11780882</TotalResults>
+<TotalPages>1178089</TotalPages>
+<MoreSearchResultsUrl>http://www.amazon.com/gp/redirect.html?linkCode=xm2&amp;SubscriptionId=AKIAJZSAO7I2UDWK7B7Q&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch%3Fkeywords%3Dcar%26url%3Dsearch-alias%253Daws-amazon-aps&amp;tag=something&amp;creative=386001&amp;camp=2025</MoreSearchResultsUrl>
+<Item>
+<ASIN>B00XLLZQSG</ASIN>
+<DetailPageURL>http://www.amazon.com/Rhode-Island-Novelty-Pull-Racer/dp/B00XLLZQSG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00XLLZQSG</DetailPageURL>
+<ItemLinks>
+<ItemLink>
+<Description>Technical Details</Description>
+<URL>http://www.amazon.com/Rhode-Island-Novelty-Pull-Racer/dp/tech-data/B00XLLZQSG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00XLLZQSG</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Baby Registry</Description>
+<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00XLLZQSG%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00XLLZQSG</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wedding Registry</Description>
+<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00XLLZQSG%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00XLLZQSG</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wishlist</Description>
+<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00XLLZQSG%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00XLLZQSG</URL>
+</ItemLink>
+<ItemLink>
+<Description>Tell A Friend</Description>
+<URL>http://www.amazon.com/gp/pdp/taf/B00XLLZQSG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00XLLZQSG</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Customer Reviews</Description>
+<URL>http://www.amazon.com/review/product/B00XLLZQSG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00XLLZQSG</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Offers</Description>
+<URL>http://www.amazon.com/gp/offer-listing/B00XLLZQSG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00XLLZQSG</URL>
+</ItemLink>
+</ItemLinks>
+<ItemAttributes>
+<Binding>Kitchen</Binding>
+<Brand>Rhode Island Novelty</Brand>
+<EAN>0616450786618</EAN>
+<EANList>
+<EANListElement>0616450786618</EANListElement>
+</EANList>
+<Feature>12 pull back racers</Feature>
+<Feature>2 1/2 inch size plastic race cars</Feature>
+<Feature>Friction powered</Feature>
+<Feature>Pull back and go style</Feature>
+<Feature>A fun prize for birthdays and beyond</Feature>
+<IsAdultProduct>0</IsAdultProduct>
+<ItemDimensions>
+<Height Units="hundredths-inches">120</Height>
+<Length Units="hundredths-inches">220</Length>
+<Weight Units="hundredths-pounds">2</Weight>
+<Width Units="hundredths-inches">100</Width>
+</ItemDimensions>
+<Label>Rhode Island Novelty</Label>
+<ListPrice>
+<Amount>995</Amount>
+<CurrencyCode>USD</CurrencyCode>
+<FormattedPrice>$9.95</FormattedPrice>
+</ListPrice>
+<Manufacturer>Rhode Island Novelty</Manufacturer>
+<ManufacturerMinimumAge Units="months">96</ManufacturerMinimumAge>
+<Model>RN VEPULL3-12</Model>
+<MPN>VEPULL3</MPN>
+<NumberOfItems>1</NumberOfItems>
+<PackageDimensions>
+<Height Units="hundredths-inches">200</Height>
+<Length Units="hundredths-inches">600</Length>
+<Weight Units="hundredths-pounds">2</Weight>
+<Width Units="hundredths-inches">600</Width>
+</PackageDimensions>
+<PackageQuantity>1</PackageQuantity>
+<PartNumber>VEPULL3</PartNumber>
+<ProductGroup>Kitchen</ProductGroup>
+<ProductTypeName>KITCHEN</ProductTypeName>
+<Publisher>Rhode Island Novelty</Publisher>
+<Studio>Rhode Island Novelty</Studio>
+<Title>Rhode Island Novelty 12 Pull Back Racer Cars</Title>
+<UPC>616450786618</UPC>
+<UPCList>
+<UPCListElement>616450786618</UPCListElement>
+</UPCList>
+</ItemAttributes>
+</Item>
+<Item>
+<ASIN>B001AQEQNA</ASIN>
+<DetailPageURL>http://www.amazon.com/Black-Decker-PAV1200W-Cyclonic-Action-Pivoting-Nose/dp/B001AQEQNA%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001AQEQNA</DetailPageURL>
+<ItemLinks>
+<ItemLink>
+<Description>Technical Details</Description>
+<URL>http://www.amazon.com/Black-Decker-PAV1200W-Cyclonic-Action-Pivoting-Nose/dp/tech-data/B001AQEQNA%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB001AQEQNA</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Baby Registry</Description>
+<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB001AQEQNA%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB001AQEQNA</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wedding Registry</Description>
+<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB001AQEQNA%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB001AQEQNA</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wishlist</Description>
+<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB001AQEQNA%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB001AQEQNA</URL>
+</ItemLink>
+<ItemLink>
+<Description>Tell A Friend</Description>
+<URL>http://www.amazon.com/gp/pdp/taf/B001AQEQNA%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB001AQEQNA</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Customer Reviews</Description>
+<URL>http://www.amazon.com/review/product/B001AQEQNA%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB001AQEQNA</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Offers</Description>
+<URL>http://www.amazon.com/gp/offer-listing/B001AQEQNA%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB001AQEQNA</URL>
+</ItemLink>
+</ItemLinks>
+<ItemAttributes>
+<Binding>Tools &amp; Home Improvement</Binding>
+<Brand>Black &amp; Decker</Brand>
+<CatalogNumberList>
+<CatalogNumberListElement>PAV1200W</CatalogNumberListElement>
+<CatalogNumberListElement>HYV-12279</CatalogNumberListElement>
+</CatalogNumberList>
+<Color>Orange, White &amp; Gray</Color>
+<EAN>0885911096492</EAN>
+<EANList>
+<EANListElement>0885911096492</EANListElement>
+<EANListElement>0882549589808</EANListElement>
+</EANList>
+<Feature>12-volt handheld automotive vacuum cleaner with pivoting nozzle</Feature>
+<Feature>Cyclonic action keeps the filter clean and suction power constant</Feature>
+<Feature>Fingertip on/off control; 16-foot power cord; 1-step emptying system</Feature>
+<Feature>Accessories include Accessory Hose, Upholstery Detail Brush, Long Extendable Crevice Tool and Small brush tool - brush tool clips into underside of vac for convenient storage</Feature>
+<Feature>Measures approximately 7-2/7 by 6-3/5 by 14-2/7 inches; 2-year warranty</Feature>
+<ItemDimensions>
+<Height Units="hundredths-inches">1430</Height>
+<Length Units="hundredths-inches">730</Length>
+<Weight Units="hundredths-pounds">100</Weight>
+<Width Units="hundredths-inches">660</Width>
+</ItemDimensions>
+<Label>Black and Decker</Label>
+<ListPrice>
+<Amount>5600</Amount>
+<CurrencyCode>USD</CurrencyCode>
+<FormattedPrice>$56.00</FormattedPrice>
+</ListPrice>
+<Manufacturer>Black and Decker</Manufacturer>
+<Model>PAV1200W</Model>
+<MPN>PAV1200W</MPN>
+<PackageDimensions>
+<Height Units="hundredths-inches">770</Height>
+<Length Units="hundredths-inches">1480</Length>
+<Weight Units="hundredths-pounds">930</Weight>
+<Width Units="hundredths-inches">1350</Width>
+</PackageDimensions>
+<PackageQuantity>1</PackageQuantity>
+<PartNumber>PAV1200W</PartNumber>
+<ProductGroup>Home</ProductGroup>
+<ProductTypeName>TOOLS</ProductTypeName>
+<Publisher>Black and Decker</Publisher>
+<Studio>Black and Decker</Studio>
+<Title>Black &amp; Decker PAV1200W 12-Volt Cyclonic-Action Automotive Pivoting-Nose Handheld Vacuum Cleaner</Title>
+<UPC>882549589808</UPC>
+<UPCList>
+<UPCListElement>882549589808</UPCListElement>
+<UPCListElement>885911096492</UPCListElement>
+</UPCList>
+<Warranty>2 Year Warranty</Warranty>
+</ItemAttributes>
+</Item>
+<Item>
+<ASIN>B00QYMY72A</ASIN>
+<DetailPageURL>http://www.amazon.com/Pesp-Atmosphere-Interior-Decorative-Decoration/dp/B00QYMY72A%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00QYMY72A</DetailPageURL>
+<ItemLinks>
+<ItemLink>
+<Description>Technical Details</Description>
+<URL>http://www.amazon.com/Pesp-Atmosphere-Interior-Decorative-Decoration/dp/tech-data/B00QYMY72A%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QYMY72A</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Baby Registry</Description>
+<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00QYMY72A%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QYMY72A</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wedding Registry</Description>
+<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00QYMY72A%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QYMY72A</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wishlist</Description>
+<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00QYMY72A%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QYMY72A</URL>
+</ItemLink>
+<ItemLink>
+<Description>Tell A Friend</Description>
+<URL>http://www.amazon.com/gp/pdp/taf/B00QYMY72A%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QYMY72A</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Customer Reviews</Description>
+<URL>http://www.amazon.com/review/product/B00QYMY72A%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QYMY72A</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Offers</Description>
+<URL>http://www.amazon.com/gp/offer-listing/B00QYMY72A%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QYMY72A</URL>
+</ItemLink>
+</ItemLinks>
+<ItemAttributes>
+<Binding>Electronics</Binding>
+<Brand>Pesp</Brand>
+<EAN>0705586573312</EAN>
+<EANList>
+<EANListElement>0705586573312</EANListElement>
+</EANList>
+<Feature>4 in 1 12V Car Auto Interior LED Atmosphere Lights Decoration Lamp</Feature>
+<Feature>One set of atmosphere lights, including 4 LED lights and 1 cigarette lighter.</Feature>
+<Feature>360 degree for adjusting.</Feature>
+<Feature>ON-OFF switch on the cigarette lighter.</Feature>
+<Feature>Double-side adhesive tap available for installation.</Feature>
+<Label>Pesp</Label>
+<Manufacturer>Pesp</Manufacturer>
+<PackageDimensions>
+<Height Units="hundredths-inches">120</Height>
+<Length Units="hundredths-inches">850</Length>
+<Weight Units="hundredths-pounds">30</Weight>
+<Width Units="hundredths-inches">700</Width>
+</PackageDimensions>
+<PackageQuantity>1</PackageQuantity>
+<ProductGroup>Car Audio or Theater</ProductGroup>
+<ProductTypeName>CAR_ALARM</ProductTypeName>
+<Publisher>Pesp</Publisher>
+<Studio>Pesp</Studio>
+<Title>Pesp 12v 4 in 1 LED Car Auto Atmosphere Interior Floor Decorative Light Decoration Lamp Blue</Title>
+<UPC>705586573312</UPC>
+<UPCList>
+<UPCListElement>705586573312</UPCListElement>
+</UPCList>
+</ItemAttributes>
+</Item>
+<Item>
+<ASIN>B00QM7IQKG</ASIN>
+<DetailPageURL>http://www.amazon.com/AxesInMotion-Car-Driving-Simulator-2015/dp/B00QM7IQKG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00QM7IQKG</DetailPageURL>
+<ItemLinks>
+<ItemLink>
+<Description>Technical Details</Description>
+<URL>http://www.amazon.com/AxesInMotion-Car-Driving-Simulator-2015/dp/tech-data/B00QM7IQKG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QM7IQKG</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Baby Registry</Description>
+<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00QM7IQKG%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QM7IQKG</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wedding Registry</Description>
+<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00QM7IQKG%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QM7IQKG</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wishlist</Description>
+<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00QM7IQKG%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QM7IQKG</URL>
+</ItemLink>
+<ItemLink>
+<Description>Tell A Friend</Description>
+<URL>http://www.amazon.com/gp/pdp/taf/B00QM7IQKG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QM7IQKG</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Customer Reviews</Description>
+<URL>http://www.amazon.com/review/product/B00QM7IQKG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QM7IQKG</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Offers</Description>
+<URL>http://www.amazon.com/gp/offer-listing/B00QM7IQKG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QM7IQKG</URL>
+</ItemLink>
+</ItemLinks>
+<ItemAttributes>
+<Binding>App</Binding>
+<Brand>AxesInMotion</Brand>
+<Feature>Full real HUD including revs, gear and speed.</Feature>
+<Feature>ABS, TC and ESP simulation. You can also turn them off!</Feature>
+<Feature>Explore a detailed open world environment.</Feature>
+<Feature>Realistic car damage. Crash your car!</Feature>
+<Feature>Accurate physics.</Feature>
+<Genre>racing-game-genre</Genre>
+<HardwarePlatform>Android</HardwarePlatform>
+<IsAdultProduct>0</IsAdultProduct>
+<Label>AxesInMotion</Label>
+<Languages>
+<Language>
+<Name>English</Name>
+<Type>Published</Type>
+</Language>
+</Languages>
+<ListPrice>
+<Amount>0</Amount>
+<CurrencyCode>USD</CurrencyCode>
+<FormattedPrice>$0.00</FormattedPrice>
+</ListPrice>
+<Manufacturer>AxesInMotion</Manufacturer>
+<MPN>com.aim.racing2015</MPN>
+<OperatingSystem>Android</OperatingSystem>
+<PartNumber>com.aim.racing2015</PartNumber>
+<ProductGroup>Mobile Application</ProductGroup>
+<ProductTypeName>MOBILE_APPLICATION</ProductTypeName>
+<Publisher>AxesInMotion</Publisher>
+<ReleaseDate>2014-12-05</ReleaseDate>
+<Studio>AxesInMotion</Studio>
+<Title>Car Driving Simulator 2015</Title>
+<TrackSequence>14522966</TrackSequence>
+</ItemAttributes>
+</Item>
+<Item>
+<ASIN>B00GDLGNNS</ASIN>
+<DetailPageURL>http://www.amazon.com/Licensed-Control-Re-Chargeable-Function-Absorbers/dp/B00GDLGNNS%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00GDLGNNS</DetailPageURL>
+<ItemLinks>
+<ItemLink>
+<Description>Technical Details</Description>
+<URL>http://www.amazon.com/Licensed-Control-Re-Chargeable-Function-Absorbers/dp/tech-data/B00GDLGNNS%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GDLGNNS</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Baby Registry</Description>
+<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00GDLGNNS%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GDLGNNS</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wedding Registry</Description>
+<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00GDLGNNS%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GDLGNNS</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wishlist</Description>
+<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00GDLGNNS%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GDLGNNS</URL>
+</ItemLink>
+<ItemLink>
+<Description>Tell A Friend</Description>
+<URL>http://www.amazon.com/gp/pdp/taf/B00GDLGNNS%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GDLGNNS</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Customer Reviews</Description>
+<URL>http://www.amazon.com/review/product/B00GDLGNNS%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GDLGNNS</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Offers</Description>
+<URL>http://www.amazon.com/gp/offer-listing/B00GDLGNNS%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GDLGNNS</URL>
+</ItemLink>
+</ItemLinks>
+<ItemAttributes>
+<Binding>Toy</Binding>
+<Brand>MJX</Brand>
+<EAN>0680569903471</EAN>
+<EANList>
+<EANListElement>0680569903471</EANListElement>
+</EANList>
+<Feature>1:14 scale Licensed RC Car with Full Function R/C,Forward/Backward/Left/Right.</Feature>
+<Feature>TRI BAND: Each Frequency Allows Three Head-To-Head Racers At One Time by selecting a sub channel on the remote and the car (A, B, C switch)</Feature>
+<Feature>Rear wheel installed with differential system prevents the car from Skidding; the model car can keep travelling steadily.</Feature>
+<Feature>Front Wheel with Steer Trim: If the remote control car fails to run in a straight line, adjust the direction adjustment rod on the bottom of the car by tuning it slightly to the right/left until the straightest position is achieved.</Feature>
+<ItemDimensions>
+<Height Units="hundredths-inches">374</Height>
+<Length Units="hundredths-inches">1398</Length>
+<Weight Units="hundredths-pounds">200</Weight>
+<Width Units="hundredths-inches">551</Width>
+</ItemDimensions>
+<Label>MJX</Label>
+<LegalDisclaimer>Use and buy at your own risk.  Not responsible for injury to operator and/or bystanders. lost or damaged equipment or parts.  May result in injury if operator does not have the proper skills.  Do not use in a closed space especially beginners.  Practice as you go before you use the expert mode.   Follow the rules of the Academy of Model Aeronautics. You can find their rules here: http://www.modelaircraft.org/documents.aspx</LegalDisclaimer>
+<ListPrice>
+<Amount>7999</Amount>
+<CurrencyCode>USD</CurrencyCode>
+<FormattedPrice>$79.99</FormattedPrice>
+</ListPrice>
+<Manufacturer>MJX</Manufacturer>
+<ManufacturerMinimumAge Units="months">96</ManufacturerMinimumAge>
+<MPN>313</MPN>
+<PackageDimensions>
+<Height Units="hundredths-inches">740</Height>
+<Length Units="hundredths-inches">1850</Length>
+<Weight Units="hundredths-pounds">265</Weight>
+<Width Units="hundredths-inches">770</Width>
+</PackageDimensions>
+<PartNumber>313</PartNumber>
+<ProductGroup>Toy</ProductGroup>
+<ProductTypeName>TOYS_AND_GAMES</ProductTypeName>
+<Publisher>MJX</Publisher>
+<Studio>MJX</Studio>
+<Title>1:14 Licensed BMW VISION / i8 Remote Control Car (Re-Chargeable) - READY TO RUN! TRI Band Full Function Radio Control that can run 3 cars at the same time!! With LED lamps &amp; Shock Absorbers!!</Title>
+<UPC>680569903471</UPC>
+<UPCList>
+<UPCListElement>680569903471</UPCListElement>
+</UPCList>
+</ItemAttributes>
+</Item>
+<Item>
+<ASIN>B00V3R9ZKU</ASIN>
+<DetailPageURL>http://www.amazon.com/Mengo-Magna-Snap-Magnetic-Dashboard-Smartphones/dp/B00V3R9ZKU%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00V3R9ZKU</DetailPageURL>
+<ItemLinks>
+<ItemLink>
+<Description>Technical Details</Description>
+<URL>http://www.amazon.com/Mengo-Magna-Snap-Magnetic-Dashboard-Smartphones/dp/tech-data/B00V3R9ZKU%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00V3R9ZKU</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Baby Registry</Description>
+<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00V3R9ZKU%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00V3R9ZKU</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wedding Registry</Description>
+<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00V3R9ZKU%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00V3R9ZKU</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wishlist</Description>
+<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00V3R9ZKU%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00V3R9ZKU</URL>
+</ItemLink>
+<ItemLink>
+<Description>Tell A Friend</Description>
+<URL>http://www.amazon.com/gp/pdp/taf/B00V3R9ZKU%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00V3R9ZKU</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Customer Reviews</Description>
+<URL>http://www.amazon.com/review/product/B00V3R9ZKU%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00V3R9ZKU</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Offers</Description>
+<URL>http://www.amazon.com/gp/offer-listing/B00V3R9ZKU%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00V3R9ZKU</URL>
+</ItemLink>
+</ItemLinks>
+<ItemAttributes>
+<Binding>Wireless Phone Accessory</Binding>
+<Brand>Mengo</Brand>
+<Color>Black</Color>
+<EAN>0680474548460</EAN>
+<EANList>
+<EANListElement>0680474548460</EANListElement>
+</EANList>
+<Feature>Universal mounting technology is designed to hold most smartphones with or without a case, MP3 players and GPS devices</Feature>
+<Feature>Mounting piece includes tough adhesive suction cup with strong clamp and shock-resistant and slip-resistant rubber pad, to ensure secure attachment to dash or window without any residue</Feature>
+<Feature>Four heavy-duty magnets will ensure your device will stay in place, even on the most rugged roads</Feature>
+<Feature>Pivoting head can be adjusted to provide 360 degree rotation for enhanced viewing at any angle</Feature>
+<Feature>Includes three different, very simple methods to hold your device (No tools required)</Feature>
+<ItemDimensions>
+<Height Units="hundredths-inches">400</Height>
+<Length Units="hundredths-inches">400</Length>
+<Width Units="hundredths-inches">400</Width>
+</ItemDimensions>
+<Label>Megno</Label>
+<ListPrice>
+<Amount>2999</Amount>
+<CurrencyCode>USD</CurrencyCode>
+<FormattedPrice>$29.99</FormattedPrice>
+</ListPrice>
+<Manufacturer>Megno</Manufacturer>
+<Model>MG135</Model>
+<MPN>MG135</MPN>
+<PackageDimensions>
+<Height Units="hundredths-inches">280</Height>
+<Length Units="hundredths-inches">440</Length>
+<Weight Units="hundredths-pounds">25</Weight>
+<Width Units="hundredths-inches">400</Width>
+</PackageDimensions>
+<PackageQuantity>1</PackageQuantity>
+<PartNumber>MG135</PartNumber>
+<ProductGroup>Wireless</ProductGroup>
+<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+<Publisher>Megno</Publisher>
+<Studio>Megno</Studio>
+<Title>Mengo Car Mount, Mengo Magna-Snap Magnetic Dashboard Or Window Car Mount For Smartphones</Title>
+<UPC>680474548460</UPC>
+<UPCList>
+<UPCListElement>680474548460</UPCListElement>
+</UPCList>
+</ItemAttributes>
+</Item>
+<Item>
+<ASIN>B00QUCTGE8</ASIN>
+<DetailPageURL>http://www.amazon.com/Wall-Travel-Charging-Iphone-Touch/dp/B00QUCTGE8%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00QUCTGE8</DetailPageURL>
+<ItemLinks>
+<ItemLink>
+<Description>Technical Details</Description>
+<URL>http://www.amazon.com/Wall-Travel-Charging-Iphone-Touch/dp/tech-data/B00QUCTGE8%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QUCTGE8</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Baby Registry</Description>
+<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00QUCTGE8%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QUCTGE8</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wedding Registry</Description>
+<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00QUCTGE8%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QUCTGE8</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wishlist</Description>
+<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00QUCTGE8%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QUCTGE8</URL>
+</ItemLink>
+<ItemLink>
+<Description>Tell A Friend</Description>
+<URL>http://www.amazon.com/gp/pdp/taf/B00QUCTGE8%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QUCTGE8</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Customer Reviews</Description>
+<URL>http://www.amazon.com/review/product/B00QUCTGE8%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QUCTGE8</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Offers</Description>
+<URL>http://www.amazon.com/gp/offer-listing/B00QUCTGE8%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00QUCTGE8</URL>
+</ItemLink>
+</ItemLinks>
+<ItemAttributes>
+<Binding>Wireless Phone Accessory</Binding>
+<Brand>Happy Chip</Brand>
+<EAN>0704725661316</EAN>
+<EANList>
+<EANListElement>0704725661316</EANListElement>
+</EANList>
+<Feature>Included are a set of: Car Charger &amp; 3ft Cable AND Wall Charger</Feature>
+<Feature>Circuitry offers over-heat, over-current, over-charge protection.</Feature>
+<Feature>Supports the latest IOS 8 version</Feature>
+<Feature>Chargers compatible with iPhone 6 6plus 6+ 5s 5 5c 4s 4 iPod Touch</Feature>
+<Feature>Charge, Sync, Transfer data with your devices</Feature>
+<Label>Hapy Chip</Label>
+<ListPrice>
+<Amount>1599</Amount>
+<CurrencyCode>USD</CurrencyCode>
+<FormattedPrice>$15.99</FormattedPrice>
+</ListPrice>
+<Manufacturer>Hapy Chip</Manufacturer>
+<PackageDimensions>
+<Height Units="hundredths-inches">110</Height>
+<Length Units="hundredths-inches">450</Length>
+<Weight Units="hundredths-pounds">2</Weight>
+<Width Units="hundredths-inches">420</Width>
+</PackageDimensions>
+<PackageQuantity>1</PackageQuantity>
+<ProductGroup>Wireless</ProductGroup>
+<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+<Publisher>Hapy Chip</Publisher>
+<Studio>Hapy Chip</Studio>
+<Title>Car, Wall &amp; Travel Charging Set for Iphone 5 5c 5s, Iphone 6, Iphone 6 Plus, Ipad 4, Ipad Mini, Ipod Touch 5/nano 7, 8 Pin to Usb, With: (1) 3ft Lightning Cable, (1) Car Charger, (1)travel Charger (Premium Quality Charger Combo)</Title>
+<UPC>704725661316</UPC>
+<UPCList>
+<UPCListElement>704725661316</UPCListElement>
+</UPCList>
+</ItemAttributes>
+</Item>
+<Item>
+<ASIN>B00P0A6OM8</ASIN>
+<DetailPageURL>http://www.amazon.com/Car-Sun-Shade-Kassa-Set/dp/B00P0A6OM8%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00P0A6OM8</DetailPageURL>
+<ItemLinks>
+<ItemLink>
+<Description>Technical Details</Description>
+<URL>http://www.amazon.com/Car-Sun-Shade-Kassa-Set/dp/tech-data/B00P0A6OM8%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00P0A6OM8</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Baby Registry</Description>
+<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00P0A6OM8%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00P0A6OM8</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wedding Registry</Description>
+<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00P0A6OM8%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00P0A6OM8</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wishlist</Description>
+<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00P0A6OM8%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00P0A6OM8</URL>
+</ItemLink>
+<ItemLink>
+<Description>Tell A Friend</Description>
+<URL>http://www.amazon.com/gp/pdp/taf/B00P0A6OM8%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00P0A6OM8</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Customer Reviews</Description>
+<URL>http://www.amazon.com/review/product/B00P0A6OM8%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00P0A6OM8</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Offers</Description>
+<URL>http://www.amazon.com/gp/offer-listing/B00P0A6OM8%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00P0A6OM8</URL>
+</ItemLink>
+</ItemLinks>
+<ItemAttributes>
+<Binding>Baby Product</Binding>
+<Color>Black</Color>
+<EAN>0603895666322</EAN>
+<EANList>
+<EANListElement>0603895666322</EANListElement>
+</EANList>
+<Feature>PROTECT YOUR CHILD: These easy-to-apply Car Sun Shades eliminate 97% of Harmful UV Rays and have UPF 30+ Sun Protection</Feature>
+<Feature>PREMIUM MATERIAL: These Baby Sun Shades were designed in New York, one side is made out of a static cling material which easily applies to the car window without an adhesive or suction cups. The mesh side allows for reliable car sun protection while permitting high visibility.</Feature>
+<Feature>FREE BONUS: Comes with a free carrying pouch. The Car Shades can be easily folded and stored inside the pouch.</Feature>
+<Feature>MEASUREMENTS: When fully open, the Baby Car Shades measure 19 inches by 12 inches, fitting most vehicles and blocking most of the harmful UV rays.</Feature>
+<Feature>RISK FREE GUARANTEED: Backed by a 60-day return policy and a Limited Lifetime Warranty by the Kassa Brand</Feature>
+<Label>Kassa Inc.</Label>
+<Languages>
+<Language>
+<Name>English</Name>
+<Type>Unknown</Type>
+</Language>
+</Languages>
+<ListPrice>
+<Amount>1995</Amount>
+<CurrencyCode>USD</CurrencyCode>
+<FormattedPrice>$19.95</FormattedPrice>
+</ListPrice>
+<Manufacturer>Kassa Inc.</Manufacturer>
+<PackageDimensions>
+<Height Units="hundredths-inches">10</Height>
+<Length Units="hundredths-inches">600</Length>
+<Weight Units="hundredths-pounds">20</Weight>
+<Width Units="hundredths-inches">460</Width>
+</PackageDimensions>
+<ProductGroup>Baby Product</ProductGroup>
+<ProductTypeName>BABY_PRODUCT</ProductTypeName>
+<Publisher>Kassa Inc.</Publisher>
+<Studio>Kassa Inc.</Studio>
+<Title>Car Sun Shade by Kassa (Set of 2) - Baby Sun Shade with UPF 30+ Sun Protection For Car - Static Cling Car Sunshade for Ultimate Car UV Protection- Car Window Shade</Title>
+<UPC>603895666322</UPC>
+<UPCList>
+<UPCListElement>603895666322</UPCListElement>
+</UPCList>
+</ItemAttributes>
+</Item>
+<Item>
+<ASIN>B000RRD7UG</ASIN>
+<ParentASIN>B00OO9HLEG</ParentASIN>
+<DetailPageURL>http://www.amazon.com/Childress-Gate-Check-Bag-Seats/dp/B000RRD7UG%3Fpsc%3D1%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000RRD7UG</DetailPageURL>
+<ItemLinks>
+<ItemLink>
+<Description>Technical Details</Description>
+<URL>http://www.amazon.com/Childress-Gate-Check-Bag-Seats/dp/tech-data/B000RRD7UG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000RRD7UG</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Baby Registry</Description>
+<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB000RRD7UG%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000RRD7UG</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wedding Registry</Description>
+<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB000RRD7UG%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000RRD7UG</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wishlist</Description>
+<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB000RRD7UG%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000RRD7UG</URL>
+</ItemLink>
+<ItemLink>
+<Description>Tell A Friend</Description>
+<URL>http://www.amazon.com/gp/pdp/taf/B000RRD7UG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000RRD7UG</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Customer Reviews</Description>
+<URL>http://www.amazon.com/review/product/B000RRD7UG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000RRD7UG</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Offers</Description>
+<URL>http://www.amazon.com/gp/offer-listing/B000RRD7UG%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000RRD7UG</URL>
+</ItemLink>
+</ItemLinks>
+<ItemAttributes>
+<Binding>Baby Product</Binding>
+<Brand>J.L. Childress</Brand>
+<CatalogNumberList>
+<CatalogNumberListElement>10-4496-01</CatalogNumberListElement>
+<CatalogNumberListElement>2110</CatalogNumberListElement>
+<CatalogNumberListElement>JLC-2110</CatalogNumberListElement>
+<CatalogNumberListElement>052678021108</CatalogNumberListElement>
+<CatalogNumberListElement>JL-006</CatalogNumberListElement>
+</CatalogNumberList>
+<Color>Car Seats Red</Color>
+<Department>unisex-adult</Department>
+<EAN>0052678021108</EAN>
+<EANList>
+<EANListElement>0052678021108</EANListElement>
+<EANListElement>8852898306489</EANListElement>
+<EANListElement>0100029546395</EANListElement>
+</EANList>
+<Feature>Protects car seat from dirt and germs</Feature>
+<Feature>Not recommended for baggage check</Feature>
+<Feature>To ensure that this item fits your car seat, check the compatibility chart below in Technical Specification section below.</Feature>
+<Feature>Compact travel pouch measures 5 by 15 by 9"</Feature>
+<Feature>To ensure that this item fits your car seat</Feature>
+<ItemDimensions>
+<Height Units="hundredths-inches">3400</Height>
+<Length Units="hundredths-inches">1800</Length>
+<Weight Units="hundredths-pounds">45</Weight>
+<Width Units="hundredths-inches">1800</Width>
+</ItemDimensions>
+<Label>J.L. Childress</Label>
+<Languages>
+<Language>
+<Name>English</Name>
+<Type>Unknown</Type>
+</Language>
+</Languages>
+<ListPrice>
+<Amount>1599</Amount>
+<CurrencyCode>USD</CurrencyCode>
+<FormattedPrice>$15.99</FormattedPrice>
+</ListPrice>
+<Manufacturer>J.L. Childress</Manufacturer>
+<ManufacturerMaximumAge Units="months">120</ManufacturerMaximumAge>
+<ManufacturerMinimumAge Units="months">3</ManufacturerMinimumAge>
+<Model>2110</Model>
+<MPN>JLC2110RD</MPN>
+<NumberOfItems>1</NumberOfItems>
+<PackageDimensions>
+<Height Units="hundredths-inches">130</Height>
+<Length Units="hundredths-inches">830</Length>
+<Weight Units="hundredths-pounds">45</Weight>
+<Width Units="hundredths-inches">530</Width>
+</PackageDimensions>
+<PackageQuantity>1</PackageQuantity>
+<PartNumber>JLC2110RD</PartNumber>
+<ProductGroup>Baby Product</ProductGroup>
+<ProductTypeName>BABY_PRODUCT</ProductTypeName>
+<Publisher>J.L. Childress</Publisher>
+<Size>18 by 18 by 34?</Size>
+<Studio>J.L. Childress</Studio>
+<Title>JL Childress Gate Check Bag for Car Seats, Red</Title>
+<UPC>052678021108</UPC>
+<UPCList>
+<UPCListElement>052678021108</UPCListElement>
+<UPCListElement>100029546395</UPCListElement>
+</UPCList>
+</ItemAttributes>
+</Item>
+<Item>
+<ASIN>B00T47KYZ6</ASIN>
+<DetailPageURL>http://www.amazon.com/SINEDY-Cooling-Adjustable-Silent-Specialized/dp/B00T47KYZ6%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00T47KYZ6</DetailPageURL>
+<ItemLinks>
+<ItemLink>
+<Description>Technical Details</Description>
+<URL>http://www.amazon.com/SINEDY-Cooling-Adjustable-Silent-Specialized/dp/tech-data/B00T47KYZ6%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00T47KYZ6</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Baby Registry</Description>
+<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00T47KYZ6%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00T47KYZ6</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wedding Registry</Description>
+<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00T47KYZ6%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00T47KYZ6</URL>
+</ItemLink>
+<ItemLink>
+<Description>Add To Wishlist</Description>
+<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00T47KYZ6%26SubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00T47KYZ6</URL>
+</ItemLink>
+<ItemLink>
+<Description>Tell A Friend</Description>
+<URL>http://www.amazon.com/gp/pdp/taf/B00T47KYZ6%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00T47KYZ6</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Customer Reviews</Description>
+<URL>http://www.amazon.com/review/product/B00T47KYZ6%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00T47KYZ6</URL>
+</ItemLink>
+<ItemLink>
+<Description>All Offers</Description>
+<URL>http://www.amazon.com/gp/offer-listing/B00T47KYZ6%3FSubscriptionId%3DAKIAJZSAO7I2UDWK7B7Q%26tag%3Dsomething%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00T47KYZ6</URL>
+</ItemLink>
+</ItemLinks>
+<ItemAttributes>
+<Binding>Kitchen</Binding>
+<Brand>SINEDY</Brand>
+<EAN>0701466486666</EAN>
+<EANList>
+<EANListElement>0701466486666</EANListElement>
+</EANList>
+<Feature>This is Brand New 12V powered portable adjustable fan. 2 speeds cage fan. It is very quiet at only 45db. On high, the air flow could be felt at 10' from the fan.The high efficient cage fan rotates up and down inside the base allowing you to direct the air flow for maximum cooling</Feature>
+<Feature>The cigarette-lighter plug allows you to power it from your vehicle lighter socket. The DC power options make it a great choice for your car, truck, tent, RV, sleeper cab, SUV, ATV, delivery van, camping, hunting, or fishing etc.</Feature>
+<Feature>Features: Brand new and high quality. Low energy consumption, low noise.</Feature>
+<Feature>Cage shape design, makes the wind more cool. Portable and easy taking, good looking.</Feature>
+<Feature>Specifications: Input power: 12V DC. Power consumption @12vdc: 7.5 watts. High / Low / Off rotating switch. Noise Level: &lt;45db. Size: 16.5cm x 13cm x 15.5cm.</Feature>
+<Label>US SINEDY LIMITED</Label>
+<Manufacturer>US SINEDY LIMITED</Manufacturer>
+<ManufacturerPartsWarrantyDescription>Parts</ManufacturerPartsWarrantyDescription>
+<MPN>586654</MPN>
+<PackageQuantity>1</PackageQuantity>
+<PartNumber>586654</PartNumber>
+<ProductGroup>Home</ProductGroup>
+<ProductTypeName>HOME</ProductTypeName>
+<Publisher>US SINEDY LIMITED</Publisher>
+<Studio>US SINEDY LIMITED</Studio>
+<Title>SINEDY 12V Car Cooling Air Fan Speed Adjustable Silent Cooler Cosy Specialized</Title>
+<UPC>701466486666</UPC>
+<UPCList>
+<UPCListElement>701466486666</UPCListElement>
+</UPCList>
+</ItemAttributes>
+</Item>
+</Items>
+</ItemSearchResponse>

@@ -1,0 +1,126 @@
+@CHARSET "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Exo+2:100italic);
+
+html, 
+body {
+	width: 100%;
+	height: 100%;
+}
+body{
+	background-color:"F0F0F0";
+	margin: 0;
+	padding: 0;
+	color: #1C1C1C;
+
+}
+
+a, 
+a:hover{
+	text-decoration: none;
+	color: #1C1C1C;
+}
+
+.wrapper {
+	min-height: 100%;
+	margin-bottom: -100px;
+}
+
+.wrapper:after {
+	content: "";
+	display: block;
+	height: 100px;
+}
+
+.header-container > h1 {
+	margin: 0 auto;
+	padding-top:100px;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	font-style: italic;
+	font-size: 36px;
+	font-family: 'Exo 2', sans-serif;
+}
+ 
+.search-page-header h1 {
+	margin: 0;
+	padding-left: 20px;
+	height: 50px;
+	font-size: 24px;
+	font-family: 'Exo 2', sans-serif;
+}
+
+.search-page-search-container {
+	padding-left: 20px;
+}
+
+.search-page-search-container > form, 
+.change-currency {
+	margin: 5px;
+	display: inline-block;
+}
+
+.search-container {
+	margin: 0;
+	width: 100%;
+	height: auto;
+	text-align:center;
+}
+
+.search-container > form {
+	margin: 0 auto;
+	width: inherit;
+}
+
+.search-results-container {
+	margin: 0;
+	padding-left: 50px;
+	width: 80%;
+}
+
+.item {
+	margin: 5px;
+	padding: 10px 0px;
+	width: 100%;
+	height: 60px;
+	border: 1px solid #595959;
+	background-color: #D6D6D6;
+	font-family: "Arial";
+}
+
+.item:hover {
+	background-color: #E0E0E0;
+}
+
+.item-title {
+	padding: 5px 10px 5px 20px;
+	font-size: 16px:
+}
+
+.item-price {
+	display: block;
+	padding: 5px 10px 5px 20px;
+	font-style: bold;
+}
+
+.pagination-container {
+	
+	padding-left: 50px;
+}
+.pagination-container > a {
+	display: inline-block;
+	width: 50px;
+	padding: 5px;
+}
+
+.pagination-container > a:hover {
+	color: #363636;
+}
+
+footer {
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	background-color: #1C1C1C;
+	color: #FFF;
+}
