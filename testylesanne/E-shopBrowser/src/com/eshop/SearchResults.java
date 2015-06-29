@@ -10,8 +10,8 @@ import com.ECS.client.jax.ItemLookupResponse;
 import com.ECS.client.jax.Items;
 
 public class SearchResults {
-	private final static String ACCESS_KEY = "AKIAJZSAO7I2UDWK7B7Q";
-	private final static String SECRET_KEY = "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";
+	private final static String ACCESS_KEY = "<ACCESS_ KEY>";
+	private final static String SECRET_KEY = "<SECRET_KEY>";
 
 	 public static void main(String[] args) {
 		    System.out.println("API Test started");
