@@ -30,8 +30,8 @@ import org.xml.sax.SAXException;
 public class SearchResultsServlet extends HttpServlet{
 	
 	private static final long serialVersionUID = -5183243852995209003L;
-	private final static String ACCESS_KEY = "AKIAJZSAO7I2UDWK7B7Q";
-	private final static String SECRET_KEY = "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";
+	private final static String ACCESS_KEY = "<ACCES_KEY>";
+	private final static String SECRET_KEY = "<SECRET_KEY>";
 	
 	private static List<Product> productsActive = new ArrayList<Product>();
     private static List<Product> productsPreloaded = new ArrayList<Product>();
